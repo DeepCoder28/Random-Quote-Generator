@@ -30,7 +30,7 @@ h1 {
 
 .container .card blockquote {
   font-size: 3.5rem;
-  color: grey;
+  color: red;
 }
 
 .container .card figcaption {
